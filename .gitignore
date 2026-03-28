@@ -1,0 +1,8 @@
+# Chặn file thực thi
+*.exe
+
+# Chặn mấy file rác của VS Code/Dev-C++
+.vscode/
+*.o
+*.obj
+*.layout
