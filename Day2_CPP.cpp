@@ -1,7 +1,9 @@
+// -- DAY 2 LEARNING C++ --
 #include <iostream>
 #include <cmath>
 
 int main() {
+    //  -- LESSON 5: Arithmetic operators -- //
     int student = 60;
     // int student = 6 - 4 + 2 * 3 / 2;
 
@@ -22,6 +24,8 @@ int main() {
 
     std::cout << student << '\n';
 
+    // -- LESSON 6: Type casting and type conversion -- //
+
     double x = 3.14;
     char y = 100;
 
@@ -33,6 +37,8 @@ int main() {
     double score = correct/(double)questions * 100;
 
     std::cout << score << "%";
+
+    // -- LESSON 7: User input and math functions -- //
 
     std::string name = "Grind";
     int age = 19;
@@ -47,6 +53,8 @@ int main() {
 
     std::cout << "Hello " << name << "!\n";
     std::cout << "You are " << age << " years old.\n";
+
+    // -- LESSON 8: Math functions -- //
 
     double x = 3;
     double y = 2;

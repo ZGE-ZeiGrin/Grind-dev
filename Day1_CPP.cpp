@@ -1,3 +1,4 @@
+// -- DAY 1 LEARNING C++ --
 #include <iostream>
 #include <vector>
 
@@ -16,6 +17,7 @@ namespace second{
 }
 
 int main() {
+    // -- LESSON 1:  Variables and basic data types -- //
 
     int x = 5;
     int y = 7;
@@ -73,6 +75,7 @@ int main() {
     std::cout << food << '\n';
     std::cout << address << '\n';
 
+    // -- LESSON 2: Constants -- //
     const double PI = 3.14159;
     // PI = 420.69;
     double radius = 10;
@@ -83,6 +86,8 @@ int main() {
 
     std::cout << circumference << "cm" << '\n';
 
+    // -- LESSON 3: Namespaces -- //
+
     int x = 0;
     x = 10;
 
@@ -90,6 +95,7 @@ int main() {
     using std::cout;
     using std::string;
 
+    // -- LESSON 4: Type aliases -- //
     string name = "Toan";
     cout << name << '\n';
 
