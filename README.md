@@ -17,8 +17,5 @@ Grind Mode Activity:
 <p align="center">
 ### 📉 GitHub Activity Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZGE-ZeiGrin&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZGE-ZeiGrin&theme=tokyonight" />
 </p>
