@@ -1,10 +1,10 @@
 ## 📊 My Grind Stats
 Grind Mode Activity:
-  - 🚀 Total Commits: 28
+  - 🚀 Total Commits: 31
   - 🛡️ Days chasing C: 4
   - ⚔️ Days Chasing C++: 3
   - 📚 Lesson C Cleared: 12
-  - 🔥 Exercise C Cleared: 7
+  - 🔥 Exercise C Cleared: 9
   - 🎓 Lesson C++ Cleared: 15
   - ⚡ Exercise C++ Cleared: 0
   - 🎯 Current Goal C++ : Lesson #15 Logical Operators (C++ OOP)
