@@ -1,14 +1,14 @@
 ## 📊 My Grind Stats
 Grind Mode Activity:
-  - 🚀 Total Commits: 31
-  - 🛡️ Days chasing C: 4
+  - 🚀 Total Commits: 35
+  - 🛡️ Days chasing C: 6
   - ⚔️ Days Chasing C++: 3
-  - 📚 Lesson C Cleared: 12
+  - 📚 Lesson C Cleared: 16
   - 🔥 Exercise C Cleared: 9
   - 🎓 Lesson C++ Cleared: 15
   - ⚡ Exercise C++ Cleared: 0
   - 🎯 Current Goal C++ : Lesson #15 Logical Operators (C++ OOP)
-  - 🔜 Current Goal C : LESSON #12: Temperature Program
+  - 🔜 Current Goal C : LESSON #16: Logical Operators
 ## 📉 My GitHub Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZGE-ZeiGrin&theme=tokyonight" width="100%" />
