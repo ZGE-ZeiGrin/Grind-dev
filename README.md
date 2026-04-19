@@ -1,7 +1,7 @@
 ## 📊 My Grind Stats
 Grind Mode Activity:
-  - 🚀 Total Commits: 35
-  - 🛡️ Days chasing C: 6
+  - 🚀 Total Commits: 37
+  - 🛡️ Days chasing C: 7 (Take a break 2 night)
   - ⚔️ Days Chasing C++: 3
   - 📚 Lesson C Cleared: 16
   - 🔥 Exercise C Cleared: 9
