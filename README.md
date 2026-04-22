@@ -24,3 +24,6 @@ Grind Mode Activity:
 
 ### 🎬 Video Editing & Creative
 ![CapCut](https://img.shields.io/badge/CapCut-black?style=for-the-badge&logo=capcut&logoColor=white) ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-051439?style=for-the-badge&logo=davinci-resolve&logoColor=white) ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+
+### Visitors
+![Visitors](https://api.visitorbadge.io/api/visitors?path=ZGE-ZeiGrin.Grind-dev&label=VIEWS&countColor=%232631ef)
