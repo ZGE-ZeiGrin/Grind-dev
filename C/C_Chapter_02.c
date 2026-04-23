@@ -140,9 +140,9 @@ int main(){
 
     // Exercise 5
 
-    // int a = 0;
-    // int b = 0;
-    // int x = 0;
+    int a = 0;
+    int b = 0;
+    int x = 0;
     
     // Use float when using division calculation
     float a = 0;
@@ -155,40 +155,40 @@ int main(){
     printf("Enter the value B: ");
     scanf("%d", &b);
 
-    // x = a + b;
-    // printf("A + B is equal to:%d\n", x);
+    x = a + b;
+    printf("A + B is equal to:%d\n", x);
 
-    // x = a - b;
-    // printf("A - B is equal to:%d\n", x);
+    x = a - b;
+    printf("A - B is equal to:%d\n", x);
 
-    // x = a * b;
-    // printf("A * B is equal to:%d\n", x);
+    x = a * b;
+    printf("A * B is equal to:%d\n", x);
 
     x = a / b;
     printf("A / B is equal to:%.2f\n", x);
 
-    // switch(a, b){
-    //     case 1:
-    //         if(a + b){
-    //             printf("A + B is equal to:%d\n", x);
-    //             break;
-    //         }
-    //     case 2:
-    //         if(a - b){
-    //             printf("A - B is equal to:%d\n", x);
-    //             break;
-    //         }
-    //     case 3:
-    //         if(a * b){
-    //             printf("A * B is equal to:%d\n", x);
-    //             break;
-    //         }
-    //     case 4:
-    //         if(a / b){
-    //             printf("A / B is equal to:%d\n", x);
-    //         }
-    // }
-    // printf("%d\n");
+    switch(a, b){
+        case 1:
+            if(a + b){
+                printf("A + B is equal to:%d\n", x);
+                break;
+            }
+        case 2:
+            if(a - b){
+                printf("A - B is equal to:%d\n", x);
+                break;
+            }
+        case 3:
+            if(a * b){
+                printf("A * B is equal to:%d\n", x);
+                break;
+            }
+        case 4:
+            if(a / b){
+                printf("A / B is equal to:%d\n", x);
+            }
+    }
+    printf("%d\n");
 
     return 0;
 }
