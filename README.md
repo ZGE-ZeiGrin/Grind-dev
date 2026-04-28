@@ -12,7 +12,7 @@ Grind Mode Activity:
   - 🔜 Current Goal C : LESSON #16: Functions
 ## 📉 My GitHub Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZGE-ZeiGrin&bg_color=000000&color=ffffff&line=666666&point=ffffff&area=true&area_color=222222&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZGE-ZeiGrin&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=111111&hide_border=true" width="100%" />
 </p>
 
 ### 📈 Streak
