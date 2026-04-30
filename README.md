@@ -1,15 +1,15 @@
 ## 📊 My Grind Stats
 Grind Mode Activity:
-  - 🎯 Total Contributions: 69
+  - 🎯 Total Contributions: 70
   - 🚀 Total Commits: 37
-  - 🛡️ Days chasing C: 7 (Take a break 2 night)
+  - 🛡️ Days chasing C: 8
   - ⚔️ Days Chasing C++: 3
-  - 📚 Lesson C Cleared: 16
+  - 📚 Lesson C Cleared: 18
   - 🔥 Exercise C Cleared: 10
   - 🎓 Lesson C++ Cleared: 15
   - ⚡ Exercise C++ Cleared: 0
   - 🎯 Current Goal C++ : Lesson #15 Logical Operators (C++ OOP)
-  - 🔜 Current Goal C : LESSON #16: Functions
+  - 🔜 Current Goal C : LESSON #18: Variable Scope
 ## 📉 My GitHub Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZGE-ZeiGrin&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=111111&hide_border=true" width="100%" />
