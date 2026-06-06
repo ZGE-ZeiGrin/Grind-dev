@@ -2,13 +2,13 @@
 Grind Mode Activity:
   - 🎯 Total Contributions: 72
   - 🚀 Total Commits: 37
-  - 🛡️ Days chasing C: 8
+  - 🛡️ Days chasing C: 17
   - ⚔️ Days Chasing C++: 3
-  - 📚 Lesson C Cleared: 18
+  - 📚 Lesson C Cleared: 37
   - 🔥 Exercise C Cleared: 10
   - 🎓 Lesson C++ Cleared: 15
   - ⚡ Exercise C++ Cleared: 0
-  - 🎯 Current Goal C++ : Lesson #15 Logical Operators (C++ OOP)
+  - 🎯 Current Goal C++ : LESSON 37: Array of Structs (C++ OOP)
   - 🔜 Current Goal C : LESSON 20: While Loops
 ## 📉 My GitHub Activity
 <p align="center">
