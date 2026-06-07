@@ -1,15 +1,15 @@
 ## 📊 My Grind Stats
 Grind Mode Activity:
-  - 🎯 Total Contributions: 72
+  - 🎯 Total Contributions: 86
   - 🚀 Total Commits: 37
   - 🛡️ Days chasing C: 17
-  - ⚔️ Days Chasing C++: 3
-  - 📚 Lesson C Cleared: 37
+  - ⚔️ Days Chasing C++: 20
+  - 📚 Lesson C Cleared: 44
   - 🔥 Exercise C Cleared: 10
   - 🎓 Lesson C++ Cleared: 15
   - ⚡ Exercise C++ Cleared: 0
   - 🎯 Current Goal C++ : LESSON 37: Array of Structs (C++ OOP)
-  - 🔜 Current Goal C : LESSON 20: While Loops
+  - 🔜 Current Goal C : LESSON 44: Digital Clock (COMPLETE)
 ## 📉 My GitHub Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZGE-ZeiGrin&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=111111&hide_border=true" width="100%" />
