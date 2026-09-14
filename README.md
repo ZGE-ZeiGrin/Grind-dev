@@ -2,14 +2,17 @@
 Grind Mode Activity:
   - 🎯 Total Contributions: 86
   - 🚀 Total Commits: 37
-  - 🛡️ Days chasing C: 17
+  - 🛡️ Days Chasing C: 17
   - ⚔️ Days Chasing C++: 20
+  - 🌐 Days Chasing JavaScript: 2
   - 📚 Lesson C Cleared: 44
+  - 📚 Lesson JavaScript Cleared: 2
   - 🔥 Exercise C Cleared: 10
   - 🎓 Lesson C++ Cleared: 15
   - ⚡ Exercise C++ Cleared: 0
   - 🎯 Current Goal C++ : LESSON 37: Array of Structs (C++ OOP)
   - 🔜 Current Goal C : LESSON 44: Digital Clock (COMPLETE)
+  - 🎯 Current Goal JavaScript : LESSON 4: Accept user input (Js)
 ## 📉 My GitHub Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZGE-ZeiGrin&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=111111&hide_border=true" width="100%" />
