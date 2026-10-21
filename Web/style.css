@@ -1,0 +1,43 @@
+.text {
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.buttons {
+    display: flex;
+    gap: 8px;
+}
+
+.member1 {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: darkgray;
+    padding: 20px;
+    width: 120px;
+    height: 50px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+
+.member2 {
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: darkgrey;
+    padding: 20px;
+    width: 120px;
+    height: 50px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+
+.member3 {
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: darkslategrey;
+    padding: 20px;
+    width: 120px;
+    height: 50px;
+    margin-bottom: 10;
+    border-radius: 20px;
+}
