@@ -44,67 +44,67 @@ int main(){
     printf("Your favorite is %s\n", food);
     printf("Your email is %s\n", email);
 
-    bool isOnline = true;
-    bool isOnline = false;
-    bool isStudent = true;
-    // bool isStudent = false;
-    bool forSale = true;
-    bool forSale = false;
+    // bool isOnline = true;
+    // bool isOnline = false;
+    // bool isStudent = true;
+    // // bool isStudent = false;
+    // bool forSale = true;
+    // bool forSale = false;
 
-    printf("%d\n", isOnline);
-    printf("%d\n", isStudent);
-    printf("%d\n", forSale);
+    // printf("%d\n", isOnline);
+    // printf("%d\n", isStudent);
+    // printf("%d\n", forSale);
 
-    if(isOnline){
-        printf("You are ONLINE\n");
-    }
-    else{
-        printf("You are OFFLINE\n");
-    }
+    // if(isOnline){
+    //     printf("You are ONLINE\n");
+    // }
+    // else{
+    //     printf("You are OFFLINE\n");
+    // }
 
-    if(isStudent){
-        printf("You are Student\n");
-    }
-    else{
-        printf("You are NOT a Student\n");
-    }
+    // if(isStudent){
+    //     printf("You are Student\n");
+    // }
+    // else{
+    //     printf("You are NOT a Student\n");
+    // }
     
-    if(forSale){
-        printf("That item is for sale\n");
-    }
-    else{
-        printf("That item is NOT for sale\n");
-    }
+    // if(forSale){
+    //     printf("That item is for sale\n");
+    // }
+    // else{
+    //     printf("That item is NOT for sale\n");
+    // }
 
     // LESSON 2: Format Specifiers
 
-    int age = 19;
-    float price = 19.99;
-    double pi = 3.1415926535;
-    char currency = '$';
-    char name[] = "Grind";
+    // int age = 19;
+    // float price = 19.99;
+    // double pi = 3.1415926535;
+    // char currency = '$';
+    // char name[] = "Grind";
 
-    printf("%d\n", age);
-    printf("%f\n", price);
-    printf("%lf\n", pi);
-    printf("%c\n", currency);
-    printf("%s\n", name);
+    // printf("%d\n", age);
+    // printf("%f\n", price);
+    // printf("%lf\n", pi);
+    // printf("%c\n", currency);
+    // printf("%s\n", name);
 
-    int num1 = 1;
-    int num2 = 10;
-    int num3 = 100;
+    // int num1 = 1;
+    // int num2 = 10;
+    // int num3 = 100;
 
-    printf("%d\n", num1);
-    printf("%d\n", num2);
-    printf("%d\n", num3);
+    // printf("%d\n", num1);
+    // printf("%d\n", num2);
+    // printf("%d\n", num3);
 
-    float price1 = 19.99;
-    float price2 = 1.50;
-    float price3 = -100.00;
+    // float price1 = 19.99;
+    // float price2 = 1.50;
+    // float price3 = -100.00;
 
-    printf("%.2f\n", price1);
-    printf("%.2f\n", price2);
-    printf("%.2f\n", price3);
+    // printf("%.2f\n", price1);
+    // printf("%.2f\n", price2);
+    // printf("%.2f\n", price3);
 
     // LESSON 3: Arithmetic Operators
 
@@ -133,10 +133,10 @@ int main(){
 
     // LESSON 4: User Input
 
-    int age = 0;
-    float gpa = 0.0f;
-    char grade = '\0';
-    char name[30] = "";
+    // int age = 0;
+    // float gpa = 0.0f;
+    // char grade = '\0';
+    // char name[30] = "";
 
     printf("Enter your age: ");
     scanf("%d", &age);
