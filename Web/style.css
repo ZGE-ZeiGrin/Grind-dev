@@ -1,43 +1,225 @@
-.text {
-    color: white;
-    text-align: center;
+body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.buttons {
+/*Bài tập 6*/
+
+.card-1 {
     display: flex;
-    gap: 8px;
+    width: 800px;
+    margin: 20px auto 40px auto;
+    gap: 20px;
+    padding-bottom: 24px;
+    border-bottom: 1px solid #e5e5e5;
 }
 
-.member1 {
-    color: red;
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: darkgray;
-    padding: 20px;
-    width: 120px;
-    height: 50px;
+.img-1 {
+    width: 300px;
+    height: 185px;
+    flex-shrink: 0;
+    overflow: hidden;
+    border-radius: 4px;
+}
+
+.img-1 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.3s ease;
+}
+
+.card-1:hover .img-1 img {
+    transform: scale(1.05);
+}
+
+.title-1 {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.35;
+    margin: 0 0 10px 0;
+    color: #222;
+}
+
+.title-1:hover {
+    color: #9f224e;
+    cursor: pointer;
+}
+
+.desc-1 {
+    color: #4f4f4f;
+    font-size: 14px;
+    line-height: 1.5;
+    margin: 0;
+}
+
+/*Bài tập 7*/
+
+.container-2 {
+    width: 800px;
+    margin: 30px auto;
+}
+
+.cat-header-2 {
+    font-size: 18px;
+    font-weight: 700;
+    color: #222;
+    border-left: 4px solid #c00;
+    padding-left: 10px;
+    margin-bottom: 15px;
+}
+
+.wrapper-2 {
+    display: flex;
+    gap: 24px;
+}
+
+.main-post-2 {
+    flex: 6;
+}
+
+.img-2 {
+    width: 100%;
+    height: 280px;
+    overflow: hidden;
+    border-radius: 4px;
+    margin-bottom: 12px;
+}
+
+.img-2 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.title-2 {
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 1.35;
+    margin: 0 0 6px 0;
+    color: #222;
+}
+
+.title-2:hover {
+    color: #9f224e;
+    cursor: pointer;
+}
+
+.meta-2 {
+    font-size: 12px;
+    color: #888;
+    font-weight: 600;
+    margin: 0 0 8px 0;
+}
+
+.desc-2 {
+    font-size: 14px;
+    color: #4f4f4f;
+    line-height: 1.5;
+    margin: 0;
+}
+
+.sub-posts-2 {
+    flex: 4;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.sub-posts-2 li {
+    font-size: 15px;
+    font-weight: 600;
+    color: #222;
+    line-height: 1.4;
+    padding: 12px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.sub-posts-2 li {
+    font-size: 15px;
+    font-weight: 600;
+    color: #222;
+    line-height: 1.4;
+    padding: 10px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.sub-posts-2 li:hover {
+    color: #9f224e;
+    cursor: pointer;
+}
+
+.sub-posts-2 li:hover {
+    color: #9f224e;
+    cursor: pointer;
+}
+
+/* Bài tập 8 */
+.box-3 {
+    width: 400px;
+    margin: 20px auto 50px auto;
+    border: 1px solid #e5e5e5;
+    padding: 16px;
+    border-radius: 4px;
+}
+
+.img-top-3 {
+    width: 100%;
+    height: 220px;
+    overflow: hidden;
+    border-radius: 4px;
     margin-bottom: 10px;
-    border-radius: 20px;
 }
 
-.member2 {
-    color: green;
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: darkgrey;
-    padding: 20px;
-    width: 120px;
-    height: 50px;
-    margin-bottom: 10px;
-    border-radius: 20px;
+.img-top-3 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
 }
 
-.member3 {
-    color: blue;
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: darkslategrey;
-    padding: 20px;
-    width: 120px;
-    height: 50px;
-    margin-bottom: 10;
-    border-radius: 20px;
+.title-top-3 {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.35;
+    color: #222;
+    margin: 0 0 14px 0;
+    padding-bottom: 12px;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.title-top-3:hover {
+    color: #9f224e;
+    cursor: pointer;
+}
+
+.list-news-3 {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.list-news-3 li {
+    display: flex;
+    gap: 12px;
+    padding: 10px 0;
+    border-bottom: 1px solid #f0f0f0;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.4;
+    color: #222;
+}
+
+.list-news-3 li img {
+    width: 90px;
+    height: 60px;
+    flex-shrink: 0;
+    object-fit: cover;
+    border-radius: 3px;
+}
+
+.list-news-3 li:hover {
+    color: #9f224e;
+    cursor: pointer;
 }

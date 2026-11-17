@@ -1,13 +1,13 @@
 ## 📊 My Grind Stats
 Grind Mode Activity:
   - 🎯 Total Contributions: 86
-  - 🚀 Total Commits: 37
+  - 🚀 Total Commits: 110
   - 🛡️ Days Chasing C: 17
   - ⚔️ Days Chasing C++: 20
   - 🌐 Days Chasing JavaScript: 2
-  - 📚 Lesson C Cleared: 44
+  - 📚 Lesson C Cleared: 44 
   - 📚 Lesson JavaScript Cleared: 2
-  - 🔥 Exercise C Cleared: 10
+  - 🔥 Exercise C Cleared: 12
   - 🎓 Lesson C++ Cleared: 15
   - ⚡ Exercise C++ Cleared: 0
   - 🎯 Current Goal C++ : LESSON 37: Array of Structs (C++ OOP)
